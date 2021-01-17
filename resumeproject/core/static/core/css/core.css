@@ -10,3 +10,28 @@ html,body{
 .container-fluid{
     min-height: 100%;
 }
+
+/* services icon color */
+.icolor{
+    color:chartreuse;
+}
+
+/* service  subtitle color */
+.ss-color{
+    color:antiquewhite;
+}
+
+a{
+    color: rgb(209, 127, 127);
+}
+
+a:hover{
+    color:black;
+    background-color: yellowgreen;
+}
+
+a:active{
+    color:black;
+    background-color: yellowgreen;
+    font-weight: bold;
+}
